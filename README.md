@@ -32,7 +32,7 @@ Equations:
 
 E₀ = 1 + pE₀ + (1-p)E₁\
 E₁ = 1 + pE₂ + (1-p)E₁\
-E₂ = 1 + p·0 + (1-p)E₁\
+E₂ = 1 + p·0 + (1-p)E₁
 
 ### Final Formula
 
